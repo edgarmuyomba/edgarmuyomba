@@ -3,12 +3,12 @@
     <h3>Fullstack and Mobile Application Developer</h3>
 </div>
 
-<img align="right" height="200px" src="https://media.giphy.com/media/vVzH2XY3Y0Ar6/giphy.gif?cid=790b7611dy6mmg1knk7eyxp3kaos1balwzz9xfeh7cjqmbk5&ep=v1_gifs_trending&rid=giphy.gif&ct=g">
+<div align="center"><img  height="300px" src="https://media.giphy.com/media/vVzH2XY3Y0Ar6/giphy.gif?cid=790b7611dy6mmg1knk7eyxp3kaos1balwzz9xfeh7cjqmbk5&ep=v1_gifs_trending&rid=giphy.gif&ct=g"></div>
 
+---
 - 🌱 I’m currently learning Node.js, Redux
 - 💬 Ask me about anything React, Python and Flutter
 - 📫 How to reach me: edgarmatthew272@gmail.com
-
 
 ### :hammer_and_wrench: Languages and Tools
 Here are some tools I have experience with and use in projects:
