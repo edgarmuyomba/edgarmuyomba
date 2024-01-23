@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div class="header" align="center">
     <h1>Edgar 👋</h1>
     <h3>Fullstack and Mobile Application Developer</h3>
@@ -38,3 +39,21 @@ Here are some tools I have experience with and use in projects:
 - [Memory Game](https://memory-game-five-gray.vercel.app/) - A simple game to test your memory
 - [Resume Builder](https://cv-builder-mu-nine.vercel.app/) - A resume builder tool
 - [Battleship](https://edgarmuyomba.github.io/battleship/) - Battleship, the game
+=======
+### Hi there 👋
+
+<!--
+**edgarmuyomba/edgarmuyomba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> be2b012a0bffcc7a0e699f310010ba985e0ca309
