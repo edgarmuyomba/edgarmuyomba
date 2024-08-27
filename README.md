@@ -34,7 +34,7 @@ Here are some tools I have experience with and use in projects:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=edgarmuyomba&theme=dark)](https://git.io/streak-stats)
 
 ### Check out some of my live projects
+- [TicTacToe](https://tictactoe-bay-v2.vercel.app/) - The classic game knots and crosses with realtime multiplayer support.
+- [JamSesh](https://edgarmuyomba.github.io/jamsesh/) - A simple replica of the spotify feature - jams that allows users to listen to the same playlist concurrently.
 - [GlockHQ](https://glock-hq.vercel.app/) - An online ammo and weaponry marketplace
-- [Memory Game](https://memory-game-five-gray.vercel.app/) - A simple game to test your memory
-- [Resume Builder](https://cv-builder-mu-nine.vercel.app/) - A resume builder tool
 - [Battleship](https://edgarmuyomba.github.io/battleship/) - Battleship, the game
