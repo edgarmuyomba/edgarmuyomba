@@ -36,5 +36,7 @@ Here are some tools I have experience with and use in projects:
 ### Check out some of my live projects
 - [TicTacToe](https://tictactoe-bay-v2.vercel.app/) - The classic game knots and crosses with realtime multiplayer support.
 - [JamSesh](https://edgarmuyomba.github.io/jamsesh/) - A simple replica of the spotify feature - jams that allows users to listen to the same playlist concurrently.
+- [Sudoku Solver](https://sudoku-solver-eight-pi.vercel.app/) - A simple tool used to generate and solve Sudoku puzzles using the backtracking algorithm.
+- [Sort Visualizer](https://sort-visualizer-wine.vercel.app/) - A tool used to show how different sorting algorithms work.
 - [GlockHQ](https://glock-hq.vercel.app/) - An online ammo and weaponry marketplace
 - [Battleship](https://edgarmuyomba.github.io/battleship/) - Battleship, the game
