@@ -6,7 +6,7 @@
 <div align="center"><img  height="300px" src="https://media.giphy.com/media/vVzH2XY3Y0Ar6/giphy.gif?cid=790b7611dy6mmg1knk7eyxp3kaos1balwzz9xfeh7cjqmbk5&ep=v1_gifs_trending&rid=giphy.gif&ct=g"></div>
 
 ---
-- 🌱 I’m currently learning Java, Drupal and Angular
+- 🌱 I’m currently learning Native Android Development, Drupal and Angular
 - 💬 Ask me about anything React, Python and Flutter
 - 📫 How to reach me: edgarmatthew272@gmail.com
 
