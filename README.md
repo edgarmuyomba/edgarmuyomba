@@ -1,37 +1,59 @@
-<div class="header" align="center">
-    <h1>Edgar 👋</h1>
-    <h3>Fullstack and Mobile Application Developer</h3>
+<div align="center">
+
+```
+ ███████╗ ██████╗  ██████╗   █████╗   ██████╗
+  ██╔════╝ ██╔══██╗ ██╔════╝  ██╔══██╗ ██╔══██╗
+  █████╗   ██║  ██║ ██║  ███╗ ███████║ ██████╔╝
+  ██╔══╝   ██║  ██║ ██║   ██║ ██╔══██║ ██╔══██╗
+  ███████╗ ██████╔╝ ╚██████╔╝ ██║  ██║ ██║  ██║
+  ╚══════╝ ╚═════╝   ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝
+```
+
+### `EdgarMuyomba`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=6EE7B7&center=true&vCenter=true&width=500&lines=Software+Engineering+%F0%9F%9A%80;Data+Analysis+%F0%9F%93%8A;Bitcoin+%E2%82%BF)](https://git.io/typing-svg)
+
 </div>
 
-<div align="center"><img  height="300px" src="https://media.giphy.com/media/vVzH2XY3Y0Ar6/giphy.gif?cid=790b7611dy6mmg1knk7eyxp3kaos1balwzz9xfeh7cjqmbk5&ep=v1_gifs_trending&rid=giphy.gif&ct=g"></div>
+---
+
+- 📊 Making sense of financial data — before the market does
+- ₿ Building on Bitcoin and decentralized systems — the internet of money is still being written
+- 🔍 Deep in data analytics — patterns don't lie, people do
+- 📫 Reach me: edgarmatthew272@gmail.com
 
 ---
-- 🤖 Learning anything and everything
-- 🌱 I’m currently learning Native Android Development, Drupal and Angular
-- 💬 Ask me about anything React, Python and Flutter
-- 📫 How to reach me: edgarmatthew272@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools
 Here are some tools I have experience with and use in projects:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="SocketIO" alt="SocketIO" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" title="Drupal" alt="Drupal" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-    
-</div>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### :fire: Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=edgarmuyomba&theme=dark)](https://git.io/streak-stats)
@@ -43,3 +65,10 @@ Here are some tools I have experience with and use in projects:
 - [Sort Visualizer](https://sort-visualizer-wine.vercel.app/) - A tool used to show how different sorting algorithms work.
 - [GlockHQ](https://glock-hq.vercel.app/) - An online ammo and weaponry marketplace
 - [Battleship](https://edgarmuyomba.github.io/battleship/) - Battleship, the game
+
+
+<div style="display: none;" align="center">
+
+<img src="https://komarev.com/ghpvc/?username=edgarmuyomba&label=Profile%20views&color=0e75b6&style=flat" alt="edgarmuyomba" />
+
+</div>
