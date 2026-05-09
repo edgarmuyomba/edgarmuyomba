@@ -66,8 +66,9 @@ Here are some tools I have experience with and use in projects:
 - [GlockHQ](https://glock-hq.vercel.app/) - An online ammo and weaponry marketplace
 - [Battleship](https://edgarmuyomba.github.io/battleship/) - Battleship, the game
 
+---
 
-<div style="display: none;" align="center">
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=edgarmuyomba&label=Profile%20views&color=0e75b6&style=flat" alt="edgarmuyomba" />
 
