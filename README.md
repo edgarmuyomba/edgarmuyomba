@@ -55,8 +55,12 @@ Here are some tools I have experience with and use in projects:
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### :fire: Stats :
+---
+
+### :fire: Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=edgarmuyomba&theme=dark)](https://git.io/streak-stats)
+
+---
 
 ### Check out some of my live projects
 - [TicTacToe](https://tictactoe-bay-v2.vercel.app/) - The classic game knots and crosses with realtime multiplayer support.
@@ -65,6 +69,15 @@ Here are some tools I have experience with and use in projects:
 - [Sort Visualizer](https://sort-visualizer-wine.vercel.app/) - A tool used to show how different sorting algorithms work.
 - [GlockHQ](https://glock-hq.vercel.app/) - An online ammo and weaponry marketplace
 - [Battleship](https://edgarmuyomba.github.io/battleship/) - Battleship, the game
+
+---
+
+### Profiles
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-muyomba-151128252/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://edgar-muyomba.vercel.app/)
+
+
 
 ---
 
