@@ -20,7 +20,7 @@
 - 📊 Making sense of financial data — before the market does
 - ₿ Building on Bitcoin and decentralized systems — the internet of money is still being written
 - 🔍 Deep in data analytics — patterns don't lie, people do
-- 📫 Reach me: edgarmatthew272@gmail.com
+- 📫 Reach me: edgarmatthew247@gmail.com
 
 ---
 
